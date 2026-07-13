@@ -12,7 +12,9 @@ Scan the QR code below to quickly open the live application on your mobile devic
 <p align="center">
   <img src="https://raw.githubusercontent.com/iamgkkj/Iris-Flower-Classifier/79596e2b0d25fe1c6bd1207d5dcb5af909905e9f/static/qr.png" alt="Live App QR Code" width="200">
 </p>
+
 ---
+
 ### 💻 Desktop View
 
 Here is a look at the live application running on a desktop:
@@ -20,6 +22,7 @@ Here is a look at the live application running on a desktop:
 <p align="center">
   <img src="https://raw.githubusercontent.com/iamgkkj/Iris-Flower-Classifier/de7c132e082565e42625a8a8e900716ca95ae487/static/desktop.png" alt="Desktop View Screenshot" width="700">
 </p>
+
 ---
 
 ## Project Structure
