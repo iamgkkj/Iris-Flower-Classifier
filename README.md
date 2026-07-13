@@ -1,15 +1,21 @@
 # Iris Flower Classifier API & Web UI
 
-[cite_start]A streamlined MLOps pipeline that trains a Random Forest model using scikit-learn, wraps it in a Flask web API, and containerizes the entire environment with Docker[cite: 1, 2]. It includes an elegant front-end interface built with Tailwind CSS for making real-time interactive predictions.
+A streamlined MLOps pipeline that trains a Random Forest model using scikit-learn, wraps it in a Flask web API, and containerizes the entire environment with Docker. It includes an elegant front-end interface built with Tailwind CSS for making real-time interactive predictions.
 
 ## Developer Info
 * **Name:** Gopal Krishn Khoth
 * **Registration Number:** 23BCE10669
 
+### 📱 Access on Mobile
+
+Scan the QR code below to quickly open the live application on your mobile device:
+
+![Live App QR Code](https://raw.githubusercontent.com/iamgkkj/Iris-Flower-Classifier/79596e2b0d25fe1c6bd1207d5dcb5af909905e9f/static/qr.png)
+
 ---
 
 ## Project Structure
-[cite_start]The repository contains the following core files and directories [cite: 3, 11-16]:
+The repository contains the following core files and directories:
 ```text
 iris-api/
 ├── templates/
