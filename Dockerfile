@@ -13,6 +13,9 @@ RUN pip install --no-cache-dir -r requirements.txt
 # Copy the remaining project files into the container image
 COPY . .
 
+# Generate the machine learning model binary (iris_model.pkl) inside the container
+RUN python train.py
+
 # Render primarily looks for port 10000 by default, though we bind dynamically
 EXPOSE 10000
 
