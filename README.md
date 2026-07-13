@@ -9,9 +9,9 @@ A streamlined MLOps pipeline that trains a Random Forest model using scikit-lear
 ### 📱 Access on Mobile
 
 Scan the QR code below to quickly open the live application on your mobile device:
-
-![Live App QR Code](https://raw.githubusercontent.com/iamgkkj/Iris-Flower-Classifier/79596e2b0d25fe1c6bd1207d5dcb5af909905e9f/static/qr.png)
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/iamgkkj/Iris-Flower-Classifier/79596e2b0d25fe1c6bd1207d5dcb5af909905e9f/static/qr.png" alt="Live App QR Code" width="200">
+</p>
 ---
 
 ## Project Structure
